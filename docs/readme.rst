@@ -60,7 +60,7 @@ This project uses the same code as the Home Assistant Bambulab integration (`HA-
 Installing
 ==========
 
-See the `example <https://github.com/kanflo/pymirror-bambulab/docs/example/>`_
+See the the `example <https://github.com/kanflo/pymirror-bambulab/tree/main/docs/example/>`_
 
 Let's start with a demo. You need Python 3.10 and git installed. Make sure to follow the step creating a copy of the configuration file before entering your credentials. The ha-bambulab component is a submodule that needs symlinking as it is not (yet) available via pip.
 
