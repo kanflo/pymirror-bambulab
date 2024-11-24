@@ -1,0 +1,5 @@
+cloudscraper==1.2.71
+qrcode==8.0
+git+https://github.com/kanflo/remi.git@0272b76e30a9a404ebe9fbd50628d87a35fceaf9#egg=remi
+packaging==24.1
+pillow==11.0.0

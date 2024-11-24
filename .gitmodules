@@ -1,0 +1,3 @@
+[submodule "ha-bambulab"]
+	path = ha-bambulab
+	url = https://github.com/greghesp/ha-bambulab.git

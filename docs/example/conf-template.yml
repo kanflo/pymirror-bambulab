@@ -1,0 +1,32 @@
+#
+# Example PyMirror configuration file
+#
+
+[mirrorconfig]
+name = Bambulab Display
+fullscreen = False
+screen_width = 1200
+screen_height = 1600
+scale = 0.5
+font_size = 80
+font_color = ffffff
+fps = 2
+
+# Cache for scaled images
+cache_dir = cache
+
+[bambulab]
+source = bambulab
+top = 50
+left = 0
+width = -1
+height = 1350
+device_type = P1S
+serial = 
+host = 
+access_code = 
+region = EU
+email = 
+password = 
+username = 
+auth_token_file = /tmp/.authtoken
