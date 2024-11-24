@@ -48,7 +48,7 @@ Scanning this QR code opens the following page:
    :height: 137
    :alt: Bambulab log on
 
-Pressing the "Log in" button send a code to your email address, just like when logging in to BambuStudio. Enter the code on the next screen and you should be logged in.
+Pressing the "Log in" button sends a code to your email address, just like when logging in to BambuStudio. Enter the code on the next screen and you should be logged in.
 
 =========
 Security?
