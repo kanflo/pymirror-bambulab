@@ -11,7 +11,7 @@ This is a module for `PyMirror <https://github.com/kanflo/pymirror/>`_ displayin
 
 The module will access your printer (assuming it is connected to the same LAN, cloud connection has not been tried) and will download the cover image for the current print job from Bambulab's cloud.
 
-To install this module, you first need to install `PyMirror <https://github.com/kanflo/pymirror/>`_ on a Raspberry Pi or any other computer running Linux. Windows should work, but is untested. Familiarize yourself with the PyMirror `example "mirror" <https://github.com/kanflo/pymirror/example/>`_ and its `configuration <https://github.com/kanflo/pymirror/example/conf.yml>`_.
+To install this module, you first need to install `PyMirror <https://github.com/kanflo/pymirror/>`_ on a Raspberry Pi or any other computer running Linux. Windows should work, but is untested. Familiarize yourself with the PyMirror `example "mirror" <https://github.com/kanflo/pymirror/tree/main/example>`_ and its `configuration <https://github.com/kanflo/pymirror/tree/main/example/conf.yml>`_.
 
 This module requires the following configuration section in your PyMirror configuration file:
 
@@ -62,7 +62,7 @@ Installing
 
 See the `example <https://github.com/kanflo/pymirror-bambulab/docs/example/>`_
 
-Let's start with a demo. You need Python 3.10 and git installed. Make sure to follow the step creating a copy of the configuration file before entering your credentials.
+Let's start with a demo. You need Python 3.10 and git installed. Make sure to follow the step creating a copy of the configuration file before entering your credentials. The ha-bambulab component is a submodule that needs symlinking as it is not (yet) available via pip.
 
 .. code-block::
 
